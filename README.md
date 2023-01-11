@@ -4,4 +4,4 @@ Created with CodeSandbox
 Just simple dark / light mode toggler based on CSS classes
 
 Requires:
-## react-icons
+- react-icons
